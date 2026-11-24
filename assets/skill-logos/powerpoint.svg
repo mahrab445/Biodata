@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Microsoft PowerPoint">
+  <path d="M31 7h22v50H31z" fill="#c43e1c"/>
+  <path d="M38 14h9v36h-9z" fill="#ed6c47"/>
+  <circle cx="27" cy="32" r="20" fill="#d35230"/>
+  <path d="M20 21h9c7 0 11 4 11 10s-4 10-11 10h-3v7h-6zm6 5v10h3c3 0 5-2 5-5s-2-5-5-5z" fill="#fff"/>
+</svg>
